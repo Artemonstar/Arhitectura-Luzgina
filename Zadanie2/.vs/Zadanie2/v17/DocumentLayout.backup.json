@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PIDOR1\\OneDrive\\Desktop\\Luzgina-zadania\\Zadanie2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65996A50-7347-4D54-B5D4-B1FD3FA4C521}|Zadanie2\\Zadanie2.csproj|c:\\users\\pidor1\\onedrive\\desktop\\luzgina-zadania\\zadanie2\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65996A50-7347-4D54-B5D4-B1FD3FA4C521}|Zadanie2\\Zadanie2.csproj|solutionrelative:zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65996A50-7347-4D54-B5D4-B1FD3FA4C521}|Zadanie2\\Zadanie2.csproj|c:\\users\\pidor1\\onedrive\\desktop\\luzgina-zadania\\zadanie2\\zadanie2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65996A50-7347-4D54-B5D4-B1FD3FA4C521}|Zadanie2\\Zadanie2.csproj|solutionrelative:zadanie2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PIDOR1\\OneDrive\\Desktop\\Luzgina-zadania\\Zadanie2\\Zadanie2\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie2\\Program.cs",
+              "ToolTip": "C:\\Users\\PIDOR1\\OneDrive\\Desktop\\Luzgina-zadania\\Zadanie2\\Zadanie2\\Program.cs*",
+              "RelativeToolTip": "Zadanie2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:42:52.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PIDOR1\\OneDrive\\Desktop\\Luzgina-zadania\\Zadanie2\\Zadanie2\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie2\\Form1.cs",
+              "ToolTip": "C:\\Users\\PIDOR1\\OneDrive\\Desktop\\Luzgina-zadania\\Zadanie2\\Zadanie2\\Form1.cs*",
+              "RelativeToolTip": "Zadanie2\\Form1.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:42:34.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

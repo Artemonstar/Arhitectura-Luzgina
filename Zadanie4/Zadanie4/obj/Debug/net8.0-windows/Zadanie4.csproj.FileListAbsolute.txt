@@ -1,0 +1,16 @@
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.exe
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.deps.json
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.runtimeconfig.json
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.pdb
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.Form1.resources
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.csproj.GenerateResource.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.AssemblyInfo.cs
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\refint\Zadanie4.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.pdb
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.genruntimeconfig.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zadanie4\Zadanie4\obj\Debug\net8.0-windows\ref\Zadanie4.dll
