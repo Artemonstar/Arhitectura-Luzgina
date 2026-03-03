@@ -1,0 +1,16 @@
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.csproj.GenerateResource.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.AssemblyInfoInputs.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.AssemblyInfo.cs
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.csproj.CoreCompileInputs.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\bin\Debug\net8.0-windows\Zada4a1.exe
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\bin\Debug\net8.0-windows\Zada4a1.deps.json
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\bin\Debug\net8.0-windows\Zada4a1.runtimeconfig.json
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\bin\Debug\net8.0-windows\Zada4a1.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\bin\Debug\net8.0-windows\Zada4a1.pdb
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.Form1.resources
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\refint\Zada4a1.dll
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.pdb
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\Zada4a1.genruntimeconfig.cache
+C:\Users\PIDOR1\OneDrive\Desktop\Luzgina-zadania\Zada4a1\Zada4a1\obj\Debug\net8.0-windows\ref\Zada4a1.dll
