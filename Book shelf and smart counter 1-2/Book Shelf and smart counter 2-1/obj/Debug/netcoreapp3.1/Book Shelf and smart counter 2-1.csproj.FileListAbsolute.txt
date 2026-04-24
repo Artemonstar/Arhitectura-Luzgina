@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.exe
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.deps.json
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.runtimeconfig.json
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.dll
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\bin\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.pdb
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\obj\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\obj\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\obj\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\obj\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.dll
+C:\Users\Admin\source\repos\Book shelf and smart counter 1-2\Book Shelf and smart counter 2-1\obj\Debug\netcoreapp3.1\Book Shelf and smart counter 2-1.pdb

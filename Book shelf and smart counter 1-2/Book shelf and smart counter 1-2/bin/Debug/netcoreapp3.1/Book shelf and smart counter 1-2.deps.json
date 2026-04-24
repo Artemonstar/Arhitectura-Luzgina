@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Book shelf and smart counter 1-2/1.0.0": {
+        "runtime": {
+          "Book shelf and smart counter 1-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book shelf and smart counter 1-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
