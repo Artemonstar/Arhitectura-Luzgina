@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.exe
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.deps.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.runtimeconfig.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.dll
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\bin\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.pdb
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\obj\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\obj\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\obj\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\obj\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.dll
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 1-2 PrivPoImeni\obj\Debug\netcoreapp3.1\Zad 1-2 PrivPoImeni.pdb

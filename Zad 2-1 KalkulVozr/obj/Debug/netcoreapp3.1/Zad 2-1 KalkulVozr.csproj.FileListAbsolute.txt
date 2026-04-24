@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.exe
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.deps.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.runtimeconfig.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.dll
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\bin\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.pdb
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\obj\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\obj\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\obj\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\obj\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.dll
+C:\Users\Admin\source\repos\Zad 1-2 PrivPoImeni\Zad 2-1 KalkulVozr\obj\Debug\netcoreapp3.1\Zad 2-1 KalkulVozr.pdb
