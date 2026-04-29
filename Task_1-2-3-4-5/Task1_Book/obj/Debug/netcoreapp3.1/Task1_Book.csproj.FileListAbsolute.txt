@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.exe
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.deps.json
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.dll
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\bin\Debug\netcoreapp3.1\Task1_Book.pdb
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\obj\Debug\netcoreapp3.1\Task1_Book.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\obj\Debug\netcoreapp3.1\Task1_Book.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\obj\Debug\netcoreapp3.1\Task1_Book.dll
+C:\Users\Admin\source\repos\Task5_Point\Task1_Book\obj\Debug\netcoreapp3.1\Task1_Book.pdb

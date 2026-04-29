@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.exe
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.deps.json
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.dll
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\bin\Debug\netcoreapp3.1\Task3_Car.pdb
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\obj\Debug\netcoreapp3.1\Task3_Car.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\obj\Debug\netcoreapp3.1\Task3_Car.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\obj\Debug\netcoreapp3.1\Task3_Car.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\obj\Debug\netcoreapp3.1\Task3_Car.dll
+C:\Users\Admin\source\repos\Task5_Point\Task3_Car\obj\Debug\netcoreapp3.1\Task3_Car.pdb

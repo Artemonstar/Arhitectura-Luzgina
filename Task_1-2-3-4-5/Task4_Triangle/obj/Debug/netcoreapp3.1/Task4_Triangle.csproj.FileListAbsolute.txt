@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.exe
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.deps.json
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.dll
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\bin\Debug\netcoreapp3.1\Task4_Triangle.pdb
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\obj\Debug\netcoreapp3.1\Task4_Triangle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\obj\Debug\netcoreapp3.1\Task4_Triangle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\obj\Debug\netcoreapp3.1\Task4_Triangle.dll
+C:\Users\Admin\source\repos\Task5_Point\Task4_Triangle\obj\Debug\netcoreapp3.1\Task4_Triangle.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.exe
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.deps.json
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.dll
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\bin\Debug\netcoreapp3.1\Task2_Student.pdb
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\obj\Debug\netcoreapp3.1\Task2_Student.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\obj\Debug\netcoreapp3.1\Task2_Student.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\obj\Debug\netcoreapp3.1\Task2_Student.dll
+C:\Users\Admin\source\repos\Task5_Point\Task2_Student\obj\Debug\netcoreapp3.1\Task2_Student.pdb

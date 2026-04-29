@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\obj\Debug\netcoreapp3.1\Task5_Point.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\obj\Debug\netcoreapp3.1\Task5_Point.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.exe
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.deps.json
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.runtimeconfig.json
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.dll
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\bin\Debug\netcoreapp3.1\Task5_Point.pdb
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\obj\Debug\netcoreapp3.1\Task5_Point.dll
+C:\Users\Admin\source\repos\Task5_Point\Task5_Point\obj\Debug\netcoreapp3.1\Task5_Point.pdb
